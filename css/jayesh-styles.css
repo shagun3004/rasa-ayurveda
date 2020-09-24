@@ -1,0 +1,86 @@
+body {
+  font-family: 'Roboto Slab', serif;
+  color: #262a2d;
+  font-size: 1.1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Slab', serif;
+}
+
+hr {
+  border-style: solid;
+  border-color: #262a2d;
+  border-width: 2px;
+  width: 90%;
+  margin: 0 auto 2rem 0;
+}
+
+
+
+.nav-link {
+  font-family: 'Roboto Slab', serif;
+}
+.section-title{
+  font-weight: 700;
+}
+header .navbar-brand {
+  font-family: 'Roboto Slab', serif;
+  font-size: 2rem;
+}
+/* contact */
+.icon-contact {
+  padding-right: 1rem;
+}
+
+/* index file *//* index file *//* index file *//* index file *//* index file *//* index file *//* index file *//* index file */
+/* products */
+.product-info-heading {
+  font-size: 3.2rem;
+}
+
+.container-1 {
+  position: relative;
+  text-align: center;
+  color: white;
+  /* background-color: black; */
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* .home-potfolio{
+  width: 90%;
+  height: 90%
+} */
+.h2-home-products {
+  font-size: 3rem;
+  color: white;
+}
+
+.p-home-products {
+  color: white;
+}
+/*message  */
+.message{
+background-color: #faffd4;
+text-align: center;
+padding: 2rem;
+}
+.table-message{
+  margin: auto;
+
+}
+.message-link{
+  color: #4FCE5D;
+  padding-right: 1rem;
+}
+
+/* indexpage footer */
+.footer-social a {
+  margin: 0 10px 5px 0;
+}

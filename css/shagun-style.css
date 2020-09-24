@@ -1,0 +1,86 @@
+/* to give padding to all products content */
+
+.product-para{
+
+}
+
+body {
+  font-family: 'Roboto Slab', serif;
+  color: #262a2d;
+  font-size: 1.1rem;
+}
+
+/* special div created for types of serum and types of hair mask */
+.all-serum{
+  text-align: center;
+  padding-bottom: 5rem;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 70px;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Poppins', sans-serif;
+}
+
+hr {
+  border-style: solid;
+  border-color: #262a2d;
+  border-width: 2px;
+  width: 90%;
+  margin: 0 auto 2rem 0;
+}
+
+.navbar-brand {
+  font-family: 'Roboto Slab', serif;
+  font-size: 2rem;
+}
+
+.nav-link {
+  font-family: 'Roboto Slab', serif;
+}
+.section-title{
+  font-weight: 700;
+}
+
+
+
+/* yellow div meaasge created for customisable */
+.message{
+background-color: #d3f0f0;
+text-align: center;
+padding: 2rem;
+margin-top: 80px;
+}
+.table-message{
+  margin: auto;
+
+}
+.message-link{
+  color: #15b727;
+  padding-right: 1rem;
+}
+.fab{
+  font-weight: 1000;
+}
+
+/* padding to each div of products arrange on left side */
+.product-left{
+  padding: 3.5rem;
+  background-color: #fdeeee;
+}
+
+/* padding to each div of products arrange on  right side */
+
+.product-right{
+  padding: 3.5rem;
+  background-color: #f6f6f6;
+
+}
+
+
+/* padding bottom given to hair treatments with no text*/
+
+.product-bottom{
+  padding-bottom: 2.5rem;
+}
